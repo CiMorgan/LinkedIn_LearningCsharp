@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V+Hgmeq1U7CgpRkow5hoUNqw2PKkDh/r+nK/JzsJZbV4P6407ie1FvLLYov9bcnTpKEOXONgK3J7ea6idmLquw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cindy Morgan\\Documents\\Computer Science\\LinkedIn\\LearningCsharp\\JobCandidate\\JobCandidate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

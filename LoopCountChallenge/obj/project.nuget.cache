@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HsCuHwuZNlz7sjcWMVKm2/o5DWSOcECtDo5IyQQX/5gZJzvWsCGDrJQr2Z0lTw9AuNaX2JrDAh9ju3Z/tHvpdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cindy Morgan\\Documents\\Computer Science\\LinkedIn\\LearningCsharp\\LoopCountChallenge\\LoopCountChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

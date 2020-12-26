@@ -1,0 +1,13 @@
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.exe
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.deps.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.runtimeconfig.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.runtimeconfig.dev.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\bin\Debug\netcoreapp3.1\SchoolTracker.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.AssemblyInfoInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.AssemblyInfo.cs
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.csproj.CoreCompileInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.genruntimeconfig.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\SchoolTracker\obj\Debug\netcoreapp3.1\SchoolTracker.csprojAssemblyReference.cache

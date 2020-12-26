@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "824F+HpbP6KaCPB5PRLIklnGsgOx8JYYt2xckN2nXGJxXZmj6Mab8yvl0sxZ+gGHvVmJxQKc84fLPQCHBBm+NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cindy Morgan\\Documents\\Computer Science\\LinkedIn\\LearningCsharp\\ForLoop\\ForLoop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

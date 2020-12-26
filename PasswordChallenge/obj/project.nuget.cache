@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CSmpBQ4o6EPv98rWm3RjfnZzTIjmjDle2Be/YEwsgY4DHQuqqbLE0Et0O3jO9YUc3eWsvHlmOqsgJm4uDrJibA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cindy Morgan\\Documents\\Computer Science\\LinkedIn\\LearningCsharp\\PasswordChallenge\\PasswordChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

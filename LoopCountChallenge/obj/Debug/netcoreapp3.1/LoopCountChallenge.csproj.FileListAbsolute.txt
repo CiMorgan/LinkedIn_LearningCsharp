@@ -1,0 +1,12 @@
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\bin\Debug\netcoreapp3.1\LoopCountChallenge.exe
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\bin\Debug\netcoreapp3.1\LoopCountChallenge.deps.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\bin\Debug\netcoreapp3.1\LoopCountChallenge.runtimeconfig.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\bin\Debug\netcoreapp3.1\LoopCountChallenge.runtimeconfig.dev.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\bin\Debug\netcoreapp3.1\LoopCountChallenge.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\bin\Debug\netcoreapp3.1\LoopCountChallenge.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\obj\Debug\netcoreapp3.1\LoopCountChallenge.AssemblyInfoInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\obj\Debug\netcoreapp3.1\LoopCountChallenge.AssemblyInfo.cs
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\obj\Debug\netcoreapp3.1\LoopCountChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\obj\Debug\netcoreapp3.1\LoopCountChallenge.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\obj\Debug\netcoreapp3.1\LoopCountChallenge.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\LoopCountChallenge\obj\Debug\netcoreapp3.1\LoopCountChallenge.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\bin\Debug\netcoreapp3.1\JobCandidate.exe
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\bin\Debug\netcoreapp3.1\JobCandidate.deps.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\bin\Debug\netcoreapp3.1\JobCandidate.runtimeconfig.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\bin\Debug\netcoreapp3.1\JobCandidate.runtimeconfig.dev.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\bin\Debug\netcoreapp3.1\JobCandidate.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\bin\Debug\netcoreapp3.1\JobCandidate.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\obj\Debug\netcoreapp3.1\JobCandidate.csprojAssemblyReference.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\obj\Debug\netcoreapp3.1\JobCandidate.AssemblyInfoInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\obj\Debug\netcoreapp3.1\JobCandidate.AssemblyInfo.cs
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\obj\Debug\netcoreapp3.1\JobCandidate.csproj.CoreCompileInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\obj\Debug\netcoreapp3.1\JobCandidate.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\obj\Debug\netcoreapp3.1\JobCandidate.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\JobCandidate\obj\Debug\netcoreapp3.1\JobCandidate.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.exe
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.deps.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.runtimeconfig.dev.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\bin\Debug\netcoreapp3.1\ForLoop.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfoInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.AssemblyInfo.cs
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\ForLoop\obj\Debug\netcoreapp3.1\ForLoop.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJy7Hs0zaUqNrjyiHhBqEGcPA6jdLWFKQyl0G6bLqZ6uqjlN1HO7euonRhSh8HdNC7vjOdMQ/5B1z4odq6v4pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cindy Morgan\\Documents\\Computer Science\\LinkedIn\\LearningCsharp\\SchoolTracker\\SchoolTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

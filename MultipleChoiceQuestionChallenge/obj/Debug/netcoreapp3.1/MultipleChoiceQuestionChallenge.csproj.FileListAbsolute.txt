@@ -1,0 +1,13 @@
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\bin\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.exe
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\bin\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.deps.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\bin\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.runtimeconfig.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\bin\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.runtimeconfig.dev.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\bin\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\bin\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\obj\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.csprojAssemblyReference.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\obj\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.AssemblyInfoInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\obj\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.AssemblyInfo.cs
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\obj\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\obj\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\obj\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\MultipleChoiceQuestionChallenge\obj\Debug\netcoreapp3.1\MultipleChoiceQuestionChallenge.genruntimeconfig.cache
