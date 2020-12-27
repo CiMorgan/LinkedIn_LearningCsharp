@@ -6,31 +6,19 @@ namespace SurveyChallenge
     {
         static void Main(string[] args)
         {
+            var customer = new Customer();
             Console.WriteLine("What is your name?");
-            var name = TryAnswer();
+            customer.Name = TryAnswer();
 
             Console.WriteLine("How old are you?");
-            var age = TryAnswer();
+            customer.Age = int.Parse(TryAnswer());
 
             Console.WriteLine("What month were you born?");
-            var month = TryAnswer();
+            customer.BirthMonth = TryAnswer();
 
-            Console.WriteLine("Your name is: {0}", name);
-            Console.WriteLine("Your age is: {0}", age);
-            Console.WriteLine("Your birth month is: {0}", month);
+            customer.Display();
 
-            if (month == "march")
-            {
-                Console.WriteLine("You are an Arias.");
-            }
-            else if (month == "april")
-            {
-                Console.WriteLine("You are a Taurus.");
-            }
-            else if (month == "may")
-            {
-                Console.WriteLine("You are a Gemini.");
-            }
+
         }
         static string TryAnswer()
         {
@@ -42,5 +30,39 @@ namespace SurveyChallenge
             }
             return answer;
         }
+    }
+    class Customer
+    {
+        public string Name;
+        public int Age;
+        public string BirthMonth;
+
+        public Customer() { }
+
+        public Customer(string name, int age, string birthMonth)
+        {
+            Name = name;
+            Age = age;
+            BirthMonth = birthMonth;
+        }
+        public void Display()
+        {
+            Console.WriteLine("Your name is: {0}", Name);
+            Console.WriteLine("Your age is: {0}", Age);
+            Console.WriteLine("Your birth month is: {0}", BirthMonth);
+            if (BirthMonth == "march")
+            {
+                Console.WriteLine("You are an Arias.");
+            }
+            else if (BirthMonth == "april")
+            {
+                Console.WriteLine("You are a Taurus.");
+            }
+            else if (BirthMonth == "may")
+            {
+                Console.WriteLine("You are a Gemini.");
+            }
+        }
+
     }
 }
