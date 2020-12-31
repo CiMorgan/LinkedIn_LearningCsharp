@@ -12,23 +12,34 @@ namespace SchoolTracker
 
             while (adding)
             {
-                var newStudent = new Student();
-                newStudent.Name = Util.Console.Ask("Student's name:");
-                newStudent.Grade = int.Parse(Util.Console.Ask("Student's grade:"));
-                newStudent.Birthday = Util.Console.Ask("Student's birthdate:");
-                newStudent.Address = Util.Console.Ask("Student's address:");
-                newStudent.Phone = (int.Parse(Util.Console.Ask("What is the phone number?")));
-
-                students.Add(newStudent);
-                Student.Count++;
-                System.Console.WriteLine("Student Count: {0}", Student.Count);
-
-                System.Console.WriteLine("Add another student? y/n");
-                if (System.Console.ReadLine() != "y")
+                try
                 {
-                    adding = false;
-                }
+                    var newStudent = new Student();
+                    newStudent.Name = Util.Console.Ask("Student's name: ");
+                    newStudent.Grade = Util.Console.AskInt("Student's grade: ");
+                    newStudent.Birthday = Util.Console.Ask("Student's birthdate: ");
+                    newStudent.Address = Util.Console.Ask("Student's address: ");
+                    newStudent.Phone = Util.Console.AskInt("What is the phone number? ");
+
+                    students.Add(newStudent);
+                    Student.Count++;
+                    System.Console.WriteLine("Student Count: {0}", Student.Count);
+
+                    System.Console.WriteLine("Add another student? y/n");
+                    if (System.Console.ReadLine() != "y")
+                    {
+                        adding = false;
+                    }
             }
+                catch (FormatException msg)
+            {
+                Console.WriteLine(msg.Message);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Error adding student. Please try again.");
+            }
+        }
 
             foreach (var student in students)
             {
