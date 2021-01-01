@@ -3,11 +3,17 @@ using System.Collections.Generic;
 
 namespace SchoolTracker
 {
+    enum School
+    {
+        Hogwarts,
+        Harvard,
+        MIT
+    }
     class Program
     {
+        static List<Student> students = new List<Student>();
         static void Main(string[] args)
         {
-            var students = new List<Student>();
             bool adding = true;
 
             while (adding)
@@ -17,6 +23,7 @@ namespace SchoolTracker
                     var newStudent = new Student();
                     newStudent.Name = Util.Console.Ask("Student's name: ");
                     newStudent.Grade = Util.Console.AskInt("Student's grade: ");
+                    newStudent.School = (School) Util.Console.AskInt("School Name (select correspondong number: \n0: Hogwarts High \n1: Harvard High \n2: MIT High \n");
                     newStudent.Birthday = Util.Console.Ask("Student's birthdate: ");
                     newStudent.Address = Util.Console.Ask("Student's address: ");
                     newStudent.Phone = Util.Console.AskInt("What is the phone number? ");
@@ -45,6 +52,7 @@ namespace SchoolTracker
             {
                 System.Console.WriteLine("Name: {0}, Grade: {1}", student.Name, student.Grade);
             }
+            Exports();
 
         }
 
@@ -52,6 +60,24 @@ namespace SchoolTracker
         {
             var ImportedStudent = new Student("Jim", 86, "Jun 13 1999", "123 Butterfly Lane", 1234567);
             Console.WriteLine(ImportedStudent.Name);
+        }
+        static void Exports()
+        {
+            foreach (var student in students)
+            {
+                switch (student.School)
+                {
+                    case School.Hogwarts:
+                        Console.WriteLine("Exporting to Hogwarts");
+                        break;
+                    case School.Harvard:
+                        Console.WriteLine("Exporting to Harvard");
+                        break;
+                    case School.MIT:
+                        Console.WriteLine("Exporting to MIT");
+                        break;
+                }
+            }
         }
     }
 
@@ -71,6 +97,7 @@ namespace SchoolTracker
         static public int Count = 0;
         public int Grade;
         public string Birthday;
+        public School School;
 
         public Student() { }
         public Student(string name, int grade, string birthdate, string address, int phone)

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTracker", "SchoolTrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCandidate", "JobCandidate\JobCandidate.csproj", "{44AC4380-48ED-4B13-8D14-7FCA7E8D65BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "outreference", "outreference\outreference.csproj", "{4F9A7FDC-C07A-4144-AC73-E05B1BBF9A9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{44AC4380-48ED-4B13-8D14-7FCA7E8D65BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44AC4380-48ED-4B13-8D14-7FCA7E8D65BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44AC4380-48ED-4B13-8D14-7FCA7E8D65BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9A7FDC-C07A-4144-AC73-E05B1BBF9A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9A7FDC-C07A-4144-AC73-E05B1BBF9A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9A7FDC-C07A-4144-AC73-E05B1BBF9A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9A7FDC-C07A-4144-AC73-E05B1BBF9A9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\bin\Debug\netcoreapp3.1\outreference.exe
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\bin\Debug\netcoreapp3.1\outreference.deps.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\bin\Debug\netcoreapp3.1\outreference.runtimeconfig.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\bin\Debug\netcoreapp3.1\outreference.runtimeconfig.dev.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\bin\Debug\netcoreapp3.1\outreference.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\bin\Debug\netcoreapp3.1\outreference.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\obj\Debug\netcoreapp3.1\outreference.AssemblyInfoInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\obj\Debug\netcoreapp3.1\outreference.AssemblyInfo.cs
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\obj\Debug\netcoreapp3.1\outreference.csproj.CoreCompileInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\obj\Debug\netcoreapp3.1\outreference.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\obj\Debug\netcoreapp3.1\outreference.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\obj\Debug\netcoreapp3.1\outreference.genruntimeconfig.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\outreference\obj\Debug\netcoreapp3.1\outreference.csprojAssemblyReference.cache
