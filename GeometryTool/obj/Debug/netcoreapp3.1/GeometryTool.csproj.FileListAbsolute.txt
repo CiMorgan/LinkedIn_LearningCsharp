@@ -1,0 +1,13 @@
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\bin\Debug\netcoreapp3.1\GeometryTool.exe
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\bin\Debug\netcoreapp3.1\GeometryTool.deps.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\bin\Debug\netcoreapp3.1\GeometryTool.runtimeconfig.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\bin\Debug\netcoreapp3.1\GeometryTool.runtimeconfig.dev.json
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\bin\Debug\netcoreapp3.1\GeometryTool.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\bin\Debug\netcoreapp3.1\GeometryTool.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\obj\Debug\netcoreapp3.1\GeometryTool.csprojAssemblyReference.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\obj\Debug\netcoreapp3.1\GeometryTool.AssemblyInfoInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\obj\Debug\netcoreapp3.1\GeometryTool.AssemblyInfo.cs
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\obj\Debug\netcoreapp3.1\GeometryTool.csproj.CoreCompileInputs.cache
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\obj\Debug\netcoreapp3.1\GeometryTool.dll
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\obj\Debug\netcoreapp3.1\GeometryTool.pdb
+C:\Users\Cindy Morgan\Documents\Computer Science\LinkedIn\LearningCsharp\GeometryTool\obj\Debug\netcoreapp3.1\GeometryTool.genruntimeconfig.cache

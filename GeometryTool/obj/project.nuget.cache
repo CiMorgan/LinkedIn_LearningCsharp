@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xdkzm4wI6G4ihywhS58Dl5wfwr9wkUnh8P398IQzuIEsKSVt2/J8xvWyTotxTI1vAaS1hfqo/p94UmwhJvswvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cindy Morgan\\Documents\\Computer Science\\LinkedIn\\LearningCsharp\\GeometryTool\\GeometryTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Cindy Morgan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

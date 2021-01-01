@@ -4,8 +4,11 @@ namespace SurveyChallenge
 {
     class Program
     {
+        static public event Action Posted;
         static void Main(string[] args)
         {
+            var stats = new Stats();
+            stats.Start();
             var customer = new Customer();
             Console.WriteLine("What is your name?");
             customer.Name = TryAnswer();
@@ -15,8 +18,12 @@ namespace SurveyChallenge
 
             Console.WriteLine("What month were you born?");
             customer.BirthMonth = TryAnswer();
-
+            if (Posted != null)
+            {
+                Posted();
+            }
             customer.Display();
+
 
 
         }

@@ -11,6 +11,11 @@ namespace Util
             System.Console.Write(question);
             return System.Console.ReadLine();
         }
+        static public string Ask(int question)
+        {
+            System.Console.Write(question);
+            return System.Console.ReadLine();
+        }
 
         static public int AskInt(string question)
         {

@@ -14,6 +14,8 @@ namespace SchoolTracker
         static List<Student> students = new List<Student>();
         static void Main(string[] args)
         {
+            Payroll payroll = new Payroll();
+            payroll.PayAll();
             bool adding = true;
 
             while (adding)
@@ -110,10 +112,7 @@ namespace SchoolTracker
         }
 
     }
-    class Teacher : Member
-    {
-        public string Subject;
-    }
+
 
 }
 
